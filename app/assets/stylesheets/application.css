@@ -13,6 +13,8 @@
  *= require_tree .
  *= require_self
  */
+
+ 
 * {
   margin: 0;
   padding: 0;
@@ -73,7 +75,7 @@ main {
 
 .list-comment {
   width: 200px;
-   position: absolute;
+  position: absolute;
   left: 0;
   bottom: 0;
 }
